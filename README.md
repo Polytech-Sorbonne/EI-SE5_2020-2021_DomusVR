@@ -1,4 +1,4 @@
-_Domus_ _VR_
+#DomusVR
 
 Interconnecter le Virtuel et le Réel 
 
